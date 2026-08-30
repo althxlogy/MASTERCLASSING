@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ed650aae5147ed",
+        "id": "ce8ec1b5a37c284b",
         "type": "tabs",
         "children": [
           {
-            "id": "9758bdaf4e15bce0",
+            "id": "8e761a80aa81ac53",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -197,7 +193,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9758bdaf4e15bce0",
+  "active": "e22b306d4fa29fa0",
   "lastOpenFiles": [
     "README.md",
     "Semester 2 - Block 1/Master's Thesis",
