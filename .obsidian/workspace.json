@@ -11,10 +11,14 @@
             "id": "8e761a80aa81ac53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1 - Block 1/Business Leadership Seminar/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 1"
             }
           }
         ]
@@ -193,8 +197,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e22b306d4fa29fa0",
+  "active": "8e761a80aa81ac53",
   "lastOpenFiles": [
+    "Semester 1 - Block 1/Business Leadership Seminar/Lecture 1.md",
     "README.md",
     "Semester 2 - Block 1/Master's Thesis",
     "Semester 1 - Block 1/Untitled",
