@@ -13,15 +13,15 @@ The distinction between being customer-led and market-oriented is rooted in how 
 
 ### Comparison of Philosophies
 
-|   |   |   |
-|---|---|---|
-|Feature|Customer-Led|Market-Oriented|
-|**Strategic Orientation**|Expressed wants|Latent needs|
-|**Adjustment Style**|Responsive (Reactive)|Proactive|
-|**Temporal Focus**|Short-term|Long-term|
-|**Primary Objective**|Customer satisfaction|Customer value|
-|**Learning Type**|Adaptive|Generative|
-|**Key Research Tools**|Surveys, focus groups, concept testing|Observation of customer processes, lead-user relationships, experimentation|
+|                           |                                        |                                                                             |
+| ------------------------- | -------------------------------------- | --------------------------------------------------------------------------- |
+| Feature                   | Customer-Led                           | Market-Oriented                                                             |
+| **Strategic Orientation** | Expressed wants                        | Latent needs                                                                |
+| **Adjustment Style**      | Responsive (Reactive)                  | Proactive                                                                   |
+| **Temporal Focus**        | Short-term                             | Long-term                                                                   |
+| **Primary Objective**     | Customer satisfaction                  | Customer value                                                              |
+| **Learning Type**         | Adaptive                               | Generative                                                                  |
+| **Key Research Tools**    | Surveys, focus groups, concept testing | Observation of customer processes, lead-user relationships, experimentation |
 
 ## II. The Customer-Led Philosophy: Risks and Limitations
 
