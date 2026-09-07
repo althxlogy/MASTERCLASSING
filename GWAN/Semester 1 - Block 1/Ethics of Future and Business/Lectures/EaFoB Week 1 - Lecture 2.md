@@ -1,0 +1,23 @@
+# Changing Behavior
+- Evolutionary bases of behavior
+	- goals: (proximate) - culture,incentives, preferences, learning, utility
+		- ultimate: evolutionary bases
+	- Mismatches between current and ancestral
+		- propensity of self-interest
+			- tend to prioritize our own interest
+			- we select our kin, reciprocate altruism, and have an indirect reciprocity
+			- solutions: highlighting individual benefits, creating small dense networks, threatening reputation, donate first and then ask to reciprocate
+				- 
+		- Motivation for relative rather than absolute status
+			- people want relative status more than absolute status | our status within the communities that we can compare ourselves to (our reference group)
+			- principles: costly signaling and competitive altruism
+			- Solutions: pro-social competition and rankings | easily identifiable self-sacrificing behavior 
+		- Proclivity to unconsciously copy others | Social Imitation
+			- People copy unconsciously what others are doing
+			- principles: mimicry. cultural evolution and social norms
+			- solutions: depict prevalence of DESIRED (target) behavior and use social approval
+				- Showing where the change is going in a group will motivate the "left behind" to change with the rest of the crowd
+		- Predisposition to be short sighted
+			- 
+		- proneness to disregard impalpable concerns
+	- 
