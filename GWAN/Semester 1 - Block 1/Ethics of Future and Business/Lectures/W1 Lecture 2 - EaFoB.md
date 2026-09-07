@@ -12,5 +12,5 @@ Ethical Decision Making Process:
 
 Look at the business system and not the individual facing bias -> Data can reveal the different forms of bias across experiences and statuses
 
-``
+#Lecture
 

@@ -5,15 +5,17 @@ views:
       and:
         - file.folder.contains("GWAN")
     order:
-      - file.name
       - file.folder
+      - file.name
       - file.tags
     sort:
-      - property: file.tags
-        direction: DESC
       - property: file.folder
+        direction: DESC
+      - property: file.tags
         direction: ASC
       - property: file.name
         direction: ASC
+    columnSize:
+      file.folder: 445
   - type: cards
     name: View

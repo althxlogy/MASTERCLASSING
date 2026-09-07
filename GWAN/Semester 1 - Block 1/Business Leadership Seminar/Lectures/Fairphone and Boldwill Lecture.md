@@ -22,4 +22,6 @@ They wanted to expose the use of rare minerals in tech industry
 	- They call it Transparency
 	- Fast fashion is completely  leveling out the playing field
 - Clothing recycling is much more complicated than people think because of costs, clothes degradation, etc
-- 
+
+
+#Lecture 

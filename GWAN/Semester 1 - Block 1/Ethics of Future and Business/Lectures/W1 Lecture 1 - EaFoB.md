@@ -101,3 +101,5 @@ Transformational leadership as strong values?
 
 ## Conclusion
 Pluralism represents a moderate view-> not only viewing one single theory
+
+#Lecture

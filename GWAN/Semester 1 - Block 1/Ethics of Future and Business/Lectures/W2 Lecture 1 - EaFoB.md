@@ -20,4 +20,28 @@
 		- Predisposition to be short sighted
 			- 
 		- proneness to disregard impalpable concerns
-	- 
+			- People normally do not react to things they can't see or feel
+			- principles: sensory, environmental mismatch
+			- Solutions:
+
+# 2
+- CSR and Related Tensions | Tensions between
+	- Share holders vs stakeholders
+	- economic vs social/environmental
+	- Internationalization vs Externalities
+	- Mandatory vs Voluntary
+	- Global vs Local
+- ESG(T) Issues
+	- Environmental
+		- Carbon emissions
+		- waste
+		- water
+		- biodiversity
+		- land
+		- deforestation
+	- Social
+		- Health
+		- community
+		- D&
+
+#Lecture 

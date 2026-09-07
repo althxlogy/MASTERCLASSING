@@ -37,3 +37,5 @@ edition, Pearson education limited
 	- Meso (industry) environment analysis: Porter (2008), The five competitive forces that shape strategy, Harvard Business Review ,86(1), p78
 	- Microenvironment analysis: any competitor (group) analyses, see eg. also the Professional Academy site for the most common analytical competitor models. And all consumer (target) group analyses, which will be discuss during the consumer behavior sessions in this course.
 	- The fifth C, the Company analysis, represents the internal analysis models which will be discussed in week 2.
+
+#SyllabusInfo 

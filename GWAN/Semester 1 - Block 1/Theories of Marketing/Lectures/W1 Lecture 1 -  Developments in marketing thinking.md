@@ -1,4 +1,3 @@
-
 # What is Marketing
 EVolution of the marketing concept
 1. The production concept
@@ -21,3 +20,4 @@ Marketing Definitions (AMA)
 
 Market Orientation as organization behavior: ability to generate, disseminarte and use superior information about customers and competitors
 
+#Lecture 
