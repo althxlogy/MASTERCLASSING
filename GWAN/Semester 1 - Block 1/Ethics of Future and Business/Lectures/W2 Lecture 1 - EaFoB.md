@@ -42,6 +42,11 @@
 	- Social
 		- Health
 		- community
-		- D&
+		- D&I
+		-  Employee Pay
+		- Union Relations
+- CSR and Digital EConomy
+	- What is changing in the digital economy
+	- 
 
 #Lecture 
