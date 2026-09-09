@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Homburg (2017) - Customer Experience Management.md",
+                "file": "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Driest (2016).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homburg (2017) - Customer Experience Management"
+              "title": "Driest (2016)"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Lectures/W2 Lecture 2 - EoFaB.md",
+                "file": "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Driest (2016).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 Lecture 2 - EoFaB"
+              "title": "Driest (2016)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.49999618530273
   },
   "right": {
     "id": "f2104c0a2601d457",
@@ -216,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.35693359375,
-    "collapsed": true
+    "width": 299.642822265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,8 +231,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "55aa80438dfa4803",
+  "active": "9f1118e79183e501",
   "lastOpenFiles": [
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Homburg (2017) - Customer Experience Management.md",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Driest (2016).md",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Untitled.md",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Pai (2013) - User adoption of social networking sites.pdf",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Laughlin (2014) - Holistic customer insight as an engine of growth.pdf",
+    "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Lectures/W2 Lecture 2 - EoFaB.md",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Magids (2015) - The-New-Science-of-Customer-Emotions- HBR.pdf",
+    "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Driest (2016) Building an Insights Engine - HBR.pdf",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS/ABS_Ethics&FutureOfBusiness_Session1_31August2026.pdf",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/EoFaB Base.base",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS/ABS_Ethics&FutureOfBusiness_Session2_2September2026.pdf",
@@ -242,23 +249,16 @@
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Lectures/W1 Lecture 2 - EaFoB.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Lectures/W2 Lecture 1 - EaFoB.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS/ABS_Ethics&FutureOfBusiness_Session3_7September2026.pdf",
-    "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Lectures/W2 Lecture 2 - EoFaB.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS",
-    "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS/ABS_Ethics&FutureOfBusiness_Session4_9Sept2026.pdf",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/Lectures/W1 Lecture 2.md",
-    "GWAN/Semester 1 - Block 1/Theories of Marketing/ToM Base.base",
-    "GWAN/All Classes.base",
     "README.md",
-    "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Homburg (2017) - Customer Experience Management.md",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/General Course Info.md",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/Prep and Assignments/Week 1 Preparation - Slater & Narver.md",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Narver & Slater (1998) - Distinguishing Customer-Led and Market-Oriented Philosophies.md",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/Lectures/W1 Lecture 1 -  Developments in marketing thinking.md",
     "GWAN/Semester 1 - Block 1/Business Leadership Seminar/Lectures/Fairphone and Boldwill Lecture.md",
-    "GWAN/Semester 1 - Block 1/Business Leadership Seminar/BLS Base.base",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Untitled.md",
     "Untitled.md",
-    "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/Untitled",
     "GWAN/Semester 1 - Block 1/Business Leadership Seminar/Lecture 1.md"
   ]
 }
