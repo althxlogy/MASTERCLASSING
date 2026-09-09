@@ -11,7 +11,8 @@
   "audio-recorder:start": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "R"
     }
@@ -19,9 +20,10 @@
   "audio-recorder:stop": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "V"
+      "key": "A"
     }
   ]
 }
