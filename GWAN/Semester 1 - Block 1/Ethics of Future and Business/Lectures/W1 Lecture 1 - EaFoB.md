@@ -1,3 +1,4 @@
+![[ABS_Ethics&FutureOfBusiness_Session1_31August2026.pdf]]
 # Course Structure and themes
 
 Ethics = systematic study of right and wrong (at the individual level in this course)

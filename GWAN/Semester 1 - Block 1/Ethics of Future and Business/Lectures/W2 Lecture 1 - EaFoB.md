@@ -1,3 +1,4 @@
+![[ABS_Ethics&FutureOfBusiness_Session3_7September2026.pdf]]
 # Changing Behavior
 - Evolutionary bases of behavior
 	- goals: (proximate) - culture,incentives, preferences, learning, utility
