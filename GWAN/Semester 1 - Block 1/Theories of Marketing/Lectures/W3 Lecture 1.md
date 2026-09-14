@@ -6,4 +6,9 @@ Quiz question ab Dove :
 
 Quiz question about our generations using phones:
 - it's not novel that we use our phones more than other generations, so not a very good insight
-- 
+
+Ikea advert
+- People get attached to objects -> anthropomorphizing 
+- Ikea is trying to make people not do that and remind them that it's just an object and it should be replaced^
+	- doesn't hold up today because it promotes waste (not sustainable)
+- They circled back with a sustainable version and how to use their products in a sustainable way
