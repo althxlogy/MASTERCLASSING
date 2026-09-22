@@ -28,3 +28,28 @@ how to make a car ethical IS???
 
 - Basically most people agree on the general topics on who should live or die in emergency situations and it doesn't differ significantly on like any demographic aspect expect geographically
 	- North american (Western in general) are separated into one, Asian separated into another, and then global south another one (more latinized places, including France lol)
+
+# W1 T2 Reading Questions
+1. What kind of factors do humans take into consideration beyond their own economic
+interest?
+2. What are the main elements of the (rational) ethical decision-making model?
+3. What are key individual factors that affect decision-making?
+4. What are key situational factors that affect decision-making?
+5. What is an ethical dilemma?
+6. What kind of biases do Banaji et al. 2003 identify and how do they suggest to address them?
+7. Describe a cognitive bias and use an example to illustrate it?
+8. What is corporate digital responsibility and what are related tradeoffs?
+9. What are mission and value statements, purpose statements, codes of ethics and Whistleblowing mechanisms?
+
+What is an ethical decision -> characterized by three features
+1. How it effects others (must be a significant effect): can seriously harm or benefit someone (or plural)
+2. Availability of alternatives: if there is no OTHER choise, then it is not a moral choice
+3. The choice has to be viewed as an ethical topic by at least one person that it is affected, even if the rest don't agree
+
+^ building on this humans tend to evaluate depending on different moral frameworks:
+- rights and duties: what humans are entitled to have and other obligations
+- Justice and fairness
+- Relationships and empathy: overall empathic perspective towards the people affected by the situation Or trying to protect specific relationships
+- Consequences: utilitarianism -> overall social benefits vs overall social harms
+
+## Four Stage Ethical Decision Making Model
