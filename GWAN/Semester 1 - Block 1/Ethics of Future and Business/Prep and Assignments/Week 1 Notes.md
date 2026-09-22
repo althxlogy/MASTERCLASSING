@@ -53,3 +53,9 @@ What is an ethical decision -> characterized by three features
 - Consequences: utilitarianism -> overall social benefits vs overall social harms
 
 ## Four Stage Ethical Decision Making Model
+James Rest explains how people process moral issues into 4 steps: first they become aware that a moral issue needs to be addressed, then they judge the options and evaluate which one(s) would be morally right or wrong, then they establish their inner commitment and prioritize according to other interests, then they act based on their intentions
+1. Awareness
+2. Judgement
+3. Intent - Evaluation
+4. Action
+
