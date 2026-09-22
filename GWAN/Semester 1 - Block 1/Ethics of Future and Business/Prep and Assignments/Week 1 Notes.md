@@ -21,3 +21,10 @@
 - Ethics of Duties (Kant): that we have a duty to act a certain way | A universality  to his philosophy
 	- People need to be treated as the GOAL, not a tool to achieve the goal
 - Rights and Justice
+
+# Awad (2018) - The moral machine
+
+how to make a car ethical IS???
+
+- Basically most people agree on the general topics on who should live or die in emergency situations and it doesn't differ significantly on like any demographic aspect expect geographically
+	- North american (Western in general) are separated into one, Asian separated into another, and then global south another one (more latinized places, including France lol)
