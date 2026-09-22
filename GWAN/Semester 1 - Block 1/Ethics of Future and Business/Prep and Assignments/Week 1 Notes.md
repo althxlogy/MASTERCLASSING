@@ -33,13 +33,21 @@ how to make a car ethical IS???
 1. What kind of factors do humans take into consideration beyond their own economic
 interest?
 2. What are the main elements of the (rational) ethical decision-making model?
+awareness, judgement, intent, and action
 3. What are key individual factors that affect decision-making?
+A bunch of biases to
 4. What are key situational factors that affect decision-making?
-5. What is an ethical dilemma?
-6. What kind of biases do Banaji et al. 2003 identify and how do they suggest to address them?
+
+5. *What is an ethical dilemma?*
+An ethical dilemma is an issue that has a moral basis in the form of significantly affecting another person/people, the dilemma must have moral options and alternatives to weigh one perspective against the other. One person in the affected group must recognize it as a moral issue
+
+6. *What kind of biases do Banaji et al. 2003 identify and how do they suggest to address them?*
 7. Describe a cognitive bias and use an example to illustrate it?
-8. What is corporate digital responsibility and what are related tradeoffs?
+8. *What is corporate digital responsibility and what are related tradeoffs?*
+Basically the company has a responsibility to handle digital innovations and tools with care typeshi, so if a company is trying to evaluate how they should implement AI tools they can address it from two points of view. The company has to judge the implementation based on how well it affects its customers/stakeholders and how it improves its business. Some decisions may improve the user experience through privacy features or convenience, but lower the company's profits in the form of ad revenues or make it more difficult to track their customer's data.
+
 9. What are mission and value statements, purpose statements, codes of ethics and Whistleblowing mechanisms?
+These aspects of a company align the firm's idealized morals with those of the employees and stakeholders. Employees have a soft rulebook of what perspective they must take when addressing company matters and customers are provided with an company identity they can better associate with.
 
 What is an ethical decision -> characterized by three features
 1. How it effects others (must be a significant effect): can seriously harm or benefit someone (or plural)
