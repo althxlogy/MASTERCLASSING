@@ -77,3 +77,8 @@ Firms should not manage WOM and OL in isolation.
 ## 5. Conclusion
 
 The research provides a new understanding of online social dynamics. By distinguishing between "opinions" and "actions," it reveals that while consumers are wary of negative words, they are primarily motivated by positive actions. This allows firms to utilize sales data as a powerful, low-risk marketing tool that supports popular items while remaining neutral toward niche offerings.
+
+## Perusall Comments
+
+
+

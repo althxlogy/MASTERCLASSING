@@ -85,3 +85,8 @@ The research highlights a critical divide in how different customer segments res
 - **Loyalty Integration:** Retailers should incorporate keep rewards into existing loyalty programs (e.g., Amazon Prime). This allows for targeted rewarding without discriminating against infrequent shoppers.
 - **Reward Design:** Focus on **delayed rewards** (applicable to future purchases). This not only encourages the customer to keep the current item but also secures a future transaction.
 - **Price Point:** Focus on the **low- to mid-priced segment** where the relative value of a reward (like a €6 shipping fee) is significant compared to the product price.
+
+
+## Perusall Comments
+
+I wonder what the spectrum for rebellious behavior is. Which types of rewards trigger it and how infrquently the consumer buys online. Also, if there is a section of this consumer type that would go so far to post about it on social media platforms like Twitter (x) or Reddit.
