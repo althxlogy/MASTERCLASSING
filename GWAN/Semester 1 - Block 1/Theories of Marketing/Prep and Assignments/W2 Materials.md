@@ -20,8 +20,10 @@ Sawhney 2004, 2010
 
 Consumer insights how  and why - Van den Driest 2016
 - consumer insights as a tool to create value
-- Insights Engine
+	- how are they implemented
+- Insights Engine - CI generation in companies
 	- Cb and research
 	- Consumer insights
 	- Marketing strategy and tactics
-- 
+
+ALSO how to NOT go about consumer insights - spread across Sawhney, Van driest et al. and Hofacker
