@@ -21,7 +21,28 @@
 	- Consumer insights as a business function : it is a multidisciplinary "engine " that uses data management, predictive analysis,  consumer research, and database marketing to drive business growth
 - Different industries look at consumer insights in different ways; it is often dependent on their level of access to data historically.
 	- fast moving consumer goods: equates insight with traditional market research and has had historical issues capturing end consumer data
-	- Retail:, banking, telecommunications: 
+	- Retail:, banking, telecommunications: sees insight as data and predictive analytics
+	- Direct marketing: interprets insight as database marketing
+- Laughlin proposes a framework to move beyond the stereotypical interpretation:
+	- 1. non obviousness: insights are aggregated from multiple sources/disciplines
+	- 2. actionability: how these insights translate into actions. if it's not actionable it is more of a theoretical hypothesis
+	- 3.  behavioral change: insights possess the power influence how consumers behave, not just predict behavior
+	- 4. mutual benefit: it needs to serve the org's long-term value and the customer's best interests (if not then it is exploitative)
+- This function/framework relies on 4 spechialist technical areas:
+	- Consumer data management: gives the necessary data for other functions. if not its poop for everyone
+	- analytics and data science: SQL and statistics to understand past behavior and predict future actions
+	- Consumer research: explains why consumers act a certain way, their perceptions and emotional engagement
+	- Database Marketing: Scientific method in marketing through testing, control groups and feedback loops
+- When those four cogs move together they create a virtuous cycle creating insight that an organization acts on 
+	- Stage 1: Converging evidence: behavioral analysts and researchers put together evidence, compare and contrast to find common themes. Themes are shaped into hypotheses
+	- Stage 2: testing Hypotheses: these hypotheses are applied through database marketing and tested until refined to an interation that incites behavioral change
+	- Stage 3: Feeling Experiences: Test is implemented and research is engaged again to see analyze how consumers respond to the behavioral change. The feedback leads back into the first stage
+- Key requirements that allow these things to happen
+	- The barrier between data, research and the correct professionals must be broken
+	- Ethics and morals in a company gotta be aligned 
+	- 
+
+# Consumer Insights How?
 
 
 # Priming the Notes
