@@ -1,5 +1,4 @@
 *Including syllabus info*
-
 # Aim of the course
 - providing a foundation for marketing theories and history in the areas of consumer behavior  and creating successful marketing strategies
 - Topic 1: Developments in Marketing Thinking and Strategy
