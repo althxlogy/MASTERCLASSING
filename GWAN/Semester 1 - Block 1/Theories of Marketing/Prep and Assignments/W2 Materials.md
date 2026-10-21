@@ -44,6 +44,7 @@
 
 # Consumer Insights How?
 
+# Means End Chains in Marketing
 
 # Priming the Notes
 McLean 1979 | **NOT IN THE COURSE**
