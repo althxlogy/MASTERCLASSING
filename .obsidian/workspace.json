@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GWAN/Semester 1 - Block 2/Consumer Behavior/Tutorials/Tutorial 1.md",
+                "file": "GWAN/Semester 1 - Block 2/DMA/Tutorials/T1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorial 1"
+              "title": "T1"
             }
           }
         ],
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.3571434020996,
-    "collapsed": true
+    "width": 324.3571434020996
   },
   "right": {
     "id": "f2104c0a2601d457",
@@ -236,8 +235,11 @@
   },
   "active": "4590ebdebbdd81b3",
   "lastOpenFiles": [
-    "Lecture Audio Recordings/Recording 20260911144618.m4a",
     "GWAN/Semester 1 - Block 2/Consumer Behavior/Tutorials/Tutorial 1.md",
+    "GWAN/Semester 1 - Block 2/DMA/Tutorials/T1.md",
+    "GWAN/Semester 1 - Block 2/DMA/Tutorials",
+    "GWAN/Semester 1 - Block 2/DMA",
+    "Lecture Audio Recordings/Recording 20260911144618.m4a",
     "GWAN/Semester 1 - Block 2/Consumer Behavior/Tutorials",
     "GWAN/Semester 1 - Block 2/Consumer Behavior",
     "Lecture Audio Recordings/Recording 20260911135556.m4a",
@@ -263,12 +265,9 @@
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/Week 2 Notes.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/Week 1 Notes.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Session PDFS/Session 2 2627.pdf",
-    "Lecture Audio Recordings",
-    "Recording 20261001094824.m4a",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/W4 Gelbrich (2017) - The Impact of Reinforcement on Online Retail Return Decisions.md",
     "GWAN/Semester 1 - Block 1/Theories of Marketing/LM Summaries/W4 Chen (2011) - Word of Mouth (WOM) Versus Observational Learning (OL).md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/W2 T2 LM Summaries.md",
-    "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Article PDFS/404 Bansal 2025.pdf",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/W2 T1 LM Summaries.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/BLURT.md",
     "GWAN/Semester 1 - Block 1/Ethics of Future and Business/Prep and Assignments/W1 T2 LM Summary.md",
