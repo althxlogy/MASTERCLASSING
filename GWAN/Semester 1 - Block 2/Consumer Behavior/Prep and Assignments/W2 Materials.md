@@ -37,4 +37,9 @@ Clip 3
 	- surprise
 	- disgust
 	- fear
-- Valence and Arousal help characterize emotions in a graph
+- Valence and Arousal help characterize emotions in a graph (low to high on each axis)
+- arousal can increase because of a 
+- arousal can affect info processing and persuasion
+	- moderate levels are crucial to motivate or engage with someone
+	- high arousal reduces processing capacity for cognitice tasks
+- Higher arousal makes people more likely to share something -> media or news is more likely to become viral
