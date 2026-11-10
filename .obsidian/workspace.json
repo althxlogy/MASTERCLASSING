@@ -234,47 +234,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "floating": {
-    "id": "dda5bfece8f31479",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3d59d864326b9868",
-        "type": "window",
-        "children": [
-          {
-            "id": "7ff9bd9089d22a48",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb8f4bdf91a033e3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "GWAN/Semester 1 - Block 2/DMA/Articles/2 - Dang (2026) - How Content Composition Drives Social Media Engagement.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "2 - Dang (2026) - How Content Composition Drives Social Media Engagement"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 721,
-        "height": 961,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bb8f4bdf91a033e3",
+  "active": "4590ebdebbdd81b3",
   "lastOpenFiles": [
-    "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md",
     "GWAN/Semester 1 - Block 2/DMA/Articles/2 - Dang (2026) - How Content Composition Drives Social Media Engagement.pdf",
+    "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md",
     "GWAN/Semester 1 - Block 2/DMA/Articles",
     "GWAN/Semester 1 - Block 2/DMA/Lectures/W3.md",
     "GWAN/Semester 1 - Block 2/DMA/Assignments",
