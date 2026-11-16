@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md",
+                "file": "GWAN/Semester 1 - Block 2/DMA/Lectures/W4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Assignment - Dang et al"
+              "title": "W4"
             }
           }
         ],
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.3571434020996,
-    "collapsed": true
+    "width": 324.3571434020996
   },
   "right": {
     "id": "f2104c0a2601d457",
@@ -236,10 +235,11 @@
   },
   "active": "4590ebdebbdd81b3",
   "lastOpenFiles": [
-    "GWAN/Semester 1 - Block 2/DMA/Articles/2 - Dang (2026) - How Content Composition Drives Social Media Engagement.pdf",
-    "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md",
-    "GWAN/Semester 1 - Block 2/DMA/Articles",
     "GWAN/Semester 1 - Block 2/DMA/Lectures/W3.md",
+    "GWAN/Semester 1 - Block 2/DMA/Lectures/W4.md",
+    "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md",
+    "GWAN/Semester 1 - Block 2/DMA/Articles/2 - Dang (2026) - How Content Composition Drives Social Media Engagement.pdf",
+    "GWAN/Semester 1 - Block 2/DMA/Articles",
     "GWAN/Semester 1 - Block 2/DMA/Assignments",
     "GWAN/Semester 1 - Block 2/DMA/Tutorials/T1.md",
     "GWAN/Semester 1 - Block 2/DMA/Tutorials/T2.md",

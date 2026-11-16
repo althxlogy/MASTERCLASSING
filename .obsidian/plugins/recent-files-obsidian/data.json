@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "W4",
+      "path": "GWAN/Semester 1 - Block 2/DMA/Lectures/W4.md"
+    },
+    {
+      "basename": "W3",
+      "path": "GWAN/Semester 1 - Block 2/DMA/Lectures/W3.md"
+    },
+    {
       "basename": "Article Assignment - Dang et al",
       "path": "GWAN/Semester 1 - Block 2/DMA/Assignments/Article Assignment - Dang et al.md"
     },
     {
       "basename": "2 - Dang (2026) - How Content Composition Drives Social Media Engagement",
       "path": "GWAN/Semester 1 - Block 2/DMA/Articles/2 - Dang (2026) - How Content Composition Drives Social Media Engagement.pdf"
-    },
-    {
-      "basename": "W3",
-      "path": "GWAN/Semester 1 - Block 2/DMA/Lectures/W3.md"
     },
     {
       "basename": "T1",
@@ -195,10 +199,6 @@
     {
       "basename": "Laughlin (2014) - Holistic customer insight as an engine of growth",
       "path": "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Laughlin (2014) - Holistic customer insight as an engine of growth.pdf"
-    },
-    {
-      "basename": "Pai (2013) - User adoption of social networking sites",
-      "path": "GWAN/Semester 1 - Block 1/Theories of Marketing/Articles/Pai (2013) - User adoption of social networking sites.pdf"
     }
   ],
   "omittedPaths": [],
